@@ -4,7 +4,7 @@ A bit about me:
 
 - :woman: She/her
 - :computer: Frontend developer with 5 years of experience
-- :hammer_and_wrench: Usually working in the Javascript ecosystem
+- :hammer_and_wrench: Usually writing code in the Javascript ecosystem
 - :sunny: Currently helping to empower the solar energy sector
 - :earth_americas: Started learning about geospatial visualization
 - :books: Interested in the following spaces:
