@@ -1,9 +1,18 @@
-### console.log("Hello, world 👋")
+### Hello, I'm Jiannine 👋
 
-- :computer: I'm a frontend developer with 5 years of experience
-- :earth_americas: I’m currently learning about geospatial visualization
-- :hammer_and_wrench: I'm usually working in the Javascript ecosystem
-- :open_file_folder: These projects are usually just for fun
+A bit about me:
+
+- :woman: She/her
+- :computer: Frontend developer with 5 years of experience
+- :hammer_and_wrench: Usually working in the Javascript ecosystem
+- :sunny: Currently helping to empower the solar energy sector
+- :earth_americas: Started learning about geospatial visualization
+- :books: Interested in the following spaces:
+  - :evergreen_tree: Climate change adaptation and mitigation
+  - :books: Education
+  - :hospital: Health care
+  - :airplane: Travel
+  - :dog: Animal care
 
 <!--
 **jianninetorres/jianninetorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
