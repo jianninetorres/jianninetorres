@@ -1,4 +1,9 @@
-### Hi there 👋
+### console.log("Hello, world 👋")
+
+- :computer: I'm a frontend developer with 5 years of experience
+- :earth_americas: I’m currently learning about geospatial visualization
+- :hammer_and_wrench: I'm usually working in the Javascript ecosystem
+- :open_file_folder: These projects are usually just for fun
 
 <!--
 **jianninetorres/jianninetorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
