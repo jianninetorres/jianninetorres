@@ -5,10 +5,10 @@ A bit about me:
 - :woman: She/her
 - :computer: Frontend developer with 5 years of experience
 - :hammer_and_wrench: Usually writing code in the Javascript ecosystem
-- :sunny: Currently helping to empower the solar energy sector
-- :earth_americas: Started learning about geospatial visualization
+- :sunny: Currently working in the renewable energy space
 - :books: Interested in the following spaces:
   - :evergreen_tree: Climate change adaptation and mitigation
+  - :earth_americas: Geographic Information Systems
   - :books: Education
   - :hospital: Health care
   - :airplane: Travel
