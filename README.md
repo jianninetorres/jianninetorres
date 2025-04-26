@@ -3,7 +3,7 @@
 A bit about me:
 
 - :woman: She/her
-- :computer: Frontend developer with 6 years of experience
+- :computer: Frontend developer with 8 years of experience
 - :hammer_and_wrench: Usually writing code in the Javascript ecosystem
 
 <!--
